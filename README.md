@@ -1,6 +1,9 @@
 👋 Hi, I’m @B160389-2019 (Yuelin)
+
 👀 I’m interested in bioinformatics, scRNA-seq, comparative genomics, liver biology, cancer reseach.
+
 🌱 I’m currently a PhD student at the University of Edinburgh, School of informatics.
+
 📫 How to reach me yaoyuelin120@gmail.com (personal) or s1914230@ed.ac.uk (working).
 
 <!---
